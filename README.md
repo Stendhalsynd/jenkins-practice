@@ -1,3 +1,7 @@
+# Jenkins Practice
+
+Github 와 Jenkins 를 연동하고 Webhook 설정을 했다.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
